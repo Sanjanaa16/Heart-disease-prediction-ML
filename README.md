@@ -1,3 +1,5 @@
+![Accuracy](https://img.shields.io/badge/accuracy-88.3%25-brightgreen)
+
 
 # 🩺 Heart Disease Prediction using Machine Learning
 
